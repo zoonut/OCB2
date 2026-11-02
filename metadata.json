@@ -1,0 +1,6 @@
+{
+  "name": "PCam",
+  "description": "PCam is a professional camera with true 10-bit HLG HDR video recording, zebra stripes exposure overlay, and auto-exposure recalibration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
